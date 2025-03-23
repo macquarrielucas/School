@@ -3,5 +3,6 @@
         "cmath": "cpp",
         "complex": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "julia.environmentPath": "/home/lucas/Documents/School/2025"
 }

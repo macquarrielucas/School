@@ -1,0 +1,14 @@
+Modeling with systems of differential equations requires prior
+knowledge to create a fully specified model reflecting our understanding
+of biological systems. In cases where we only have a partial understanding 
+of the biological system but time series data of our variables of interest,
+universal differential equations can be used where multilayer perceptron models
+can be inserted into the equation and trained to account for the unknown 
+interactions between variables. While producing good fits to data, trained MLPs
+are a black box model leaving little to be interpreted. Kolmogorov Arnold Networks 
+are a promising alternative to MLPs which can be combined with symbolic regression
+to recover symbolic relationships between inputs and outputs. In this poster we build
+upon work by Koenig, Kim, and Deng 2024 to show that replacing MLPs with a kolmogorov
+arnold network in universal differential equations can be used to recover hidden terms
+in a predator-prey model. 
+
