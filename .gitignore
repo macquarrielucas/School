@@ -1,0 +1,67 @@
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_171111.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_181129.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_181447.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_182033.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_182313.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_182403.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_182543.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_182855.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_183109.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_183213.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_183232.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_183313.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_183552.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_185336.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_185506.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_185524.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_185606.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_185732.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_185810.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_185840.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_185924.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_190215.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_190303.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_190407.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_190447.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_190537.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_191414.png
+2025/Spring/Numerical_Analysis/Assignment 6/color_map_20250510_193640.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.pot
+*.mo
+*.db
+*.sqlite3
+*.env
+*.venv
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+.coverage
+.tox/
+.cache/
+*.cover
+*.pyc
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.orig
+*.~ 
+# VSCode
+.vscode/
