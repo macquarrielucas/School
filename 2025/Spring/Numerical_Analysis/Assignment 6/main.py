@@ -41,8 +41,8 @@ def main():
     grid_points=500
     max_iters=150
     epsilon=epsilon
-    cache_file = f"iterations_cache_{grid_points}x{grid_points}_maxitters_{max_iters}_bounds_{bounds[0]}_{bounds[1]}.pk1"
-    #cache_file = "/home/lucas/Documents/School/2025/Spring/Numerical_Analysis/Assignment 6/iterations_cache_500x500_maxitters_50_bounds_-4.5_4.5.pk1"
+    cache_file = f"iterations_cache_{grid_points}x{grid_points}_maxitters_{max_iters}_bounds_{bounds[0]}_{bounds[1]}.pkl"
+    #cache_file = "/home/lucas/Documents/School/2025/Spring/Numerical_Analysis/Assignment 6/iterations_cache_500x500_maxitters_50_bounds_-4.5_4.5.pkl"
     lg.info(f"Searching for cache file: {cache_file}")
     try:
         # Try to load cached iterations
